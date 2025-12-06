@@ -8,7 +8,7 @@ This repository stores community-submitted sleep screen images for the PocketMag
 
 Sleep Screen Backgrounds: 320×240 px
 
-Format: currently only .bmp is supported on the device, but here jpeg and png are accepted
+Format: currently only .bmp is supported on the device
 
 Color: Black & white (no greyscale)
 
