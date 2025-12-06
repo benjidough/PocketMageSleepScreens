@@ -12,7 +12,7 @@ File Wiz Wizards: 100×130 px
 
 OLED Animation Frames: 256×32 px
 
-Format: .bmp only
+Format: currently only .bmp is supported on the device, but here jpeg and png are accepted
 
 Color: Black & white (no greyscale)
 
