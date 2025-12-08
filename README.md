@@ -2,6 +2,10 @@
 
 PocketMage Sleep Screen Gallery
 
+includes assorted (general art that the community has made and posted)
+
+and featured (community art contest winners)
+
 This repository stores community-submitted sleep screen images for the PocketMage.
 
 📏 Image Requirements
